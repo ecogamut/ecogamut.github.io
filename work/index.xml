@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Ecogamut</title>
+    <link>/work/</link>
+    <description>Recent content in Works on Ecogamut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/work/proj-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/proj-1/</guid>
+      <description>An in-depth cradle-to-grave or cradle-to-gate LCA can provide you with a detailed environmental impact assessment of your product or service across a wide array of impact categories. This includes the following reporting characteristics: A detailed process flow diagram and system construction via matrix algebra where high quality regionally relevant input data is procured across the most important processes in the value chain; hotspot analysis identifying key areas of your operation that generate environmental impacts; A sensitivity and/or uncertainty analysis providing an understanding of the influence of variability on your results; A scenario analysis illustrating how impacts change under several possible product/service value chain alternatives; An assessment of next step options to prioritise and reduce your environmental footprint honing in on the most relevant impact categories.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/proj-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/proj-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/proj-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/proj-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/proj-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/proj-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/proj-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/proj-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/proj-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/proj-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/proj-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/proj-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/proj-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/proj-8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
